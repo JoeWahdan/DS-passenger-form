@@ -1,0 +1,6 @@
+W:\Universty\projects\Ds\Railway\Railway\Debug\Railway.vcxproj.AssemblyReference.cache
+W:\Universty\projects\Ds\Railway\Railway\Debug\Railway.vcxproj.SuggestedBindingRedirects.cache
+W:\Universty\projects\Ds\Railway\Railway\Debug\Railway.passenger.resources
+W:\Universty\projects\Ds\Railway\Railway\Debug\Railway.Registeration.resources
+W:\Universty\projects\Ds\Railway\Railway\Debug\Railway.SignIn.resources
+W:\Universty\projects\Ds\Railway\Railway\Debug\Railway.vcxproj.GenerateResource.cache

@@ -1,0 +1,12 @@
+﻿  BackEnd.cpp
+W:\Universty\projects\Ds\Railway\Railway\BackEnd.cpp(194,27): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  passenger.cpp
+  Registeration.cpp
+  SignIn.cpp
+W:\Universty\projects\Ds\Railway\Railway\SignIn.cpp(7,38): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  ticket.cpp
+  user.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  BackEnd.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Railway.vcxproj -> W:\Universty\projects\Ds\Railway\x64\Debug\Railway.exe
